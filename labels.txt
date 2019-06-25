@@ -1,0 +1,10 @@
+0:horse
+1:automobile
+2:deer
+3:dog
+4:frog
+5:cat
+6:truck
+7:ship
+9:bird
+8:airplane
